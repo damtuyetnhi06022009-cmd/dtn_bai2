@@ -10,10 +10,7 @@ function App() {
   return (
     <>
       <div className='card-title'>
-        <Student name =" Tuyết Nhi "/>
-        <p>Tên: Đàm Tuyết Nhi </p>
-        <p>Lớp: 26SPIT3 </p>
-        <p>Ngày sinh: 6/2/2009 </p>
+        <Student name =" Tuyết Nhi " age="16" birth="6/2/2009"/>
       </div>
     </>
   )
