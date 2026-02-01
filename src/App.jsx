@@ -10,7 +10,10 @@ function App() {
   return (
     <>
       <div className='card-title'>
-        <Welcome name =" Đàm Tuyết Nhi "/>
+        <Welcome name =" Tuyết Nhi "/>
+        <p>Tên: Đàm Tuyết Nhi </p>
+        <p>Lớp: 26SPIT3 </p>
+        <p>Ngày sinh: 6/2/2009 </p>
       </div>
     </>
   )
