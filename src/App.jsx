@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <div className='card-title'>
-        <Welcome name ="26SPIT3"/>
+        <Welcome name =" Đàm Tuyết Nhi "/>
       </div>
     </>
   )
