@@ -4,8 +4,8 @@ function Student(props){
             
         }}>
             <h2>Tên:{props.name}</h2>
-            <h2>Tuổi:{props.age}</h2>
-            <h2>Ngày sinh:{props.birth}</h2>
+            <p>Tuổi:{props.age}</p>
+            <p>Lớp:{props.class}</p>
         </div>
     )
 }

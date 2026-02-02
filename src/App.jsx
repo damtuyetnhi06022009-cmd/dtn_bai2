@@ -10,7 +10,15 @@ function App() {
   return (
     <>
       <div className='card-title'>
-        <Student name =" Tuyết Nhi " age="16" birth="6/2/2009"/>
+        <Student name =" Đàm Tuyết Nhi " age="16" class="26SPIT3"/>
+      </div>
+
+      <div className='card-title'>
+        <Student name =" Đàm Tuyết Nhi " age="16" class="26SPIT3"/>
+      </div>
+
+      <div className='card-title'>
+        <Student name =" Đàm Tuyết Nhi " age="16" class="26SPIT3"/>
       </div>
     </>
   )
