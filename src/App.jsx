@@ -9,16 +9,17 @@ function App() {
 
   return (
     <>
+    <h1>Danh sách lớp</h1>
       <div className='card-title'>
         <Student name =" Đàm Tuyết Nhi " age="16" class="26SPIT3"/>
       </div>
     <br />
       <div className='card-title'>
-        <Student name =" Đàm Tuyết Nhi " age="16" class="26SPIT3"/>
+        <Student name =" Võ Nguyễn Phương Uyên " age="16" class="26SPIT3"/>
       </div>
     <br />
       <div className='card-title'>
-        <Student name =" Đàm Tuyết Nhi " age="16" class="26SPIT3"/>
+        <Student name =" Nguyễn Chí Hiếu " age="16" class="26SPIT3"/>
       </div>
     </>
   )
