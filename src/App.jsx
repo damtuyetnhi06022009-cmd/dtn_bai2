@@ -10,22 +10,16 @@ function App() {
   return (
     <>
       <div className='card-title'>
-        <Student name =" Đàm Tuyết Nhi "/> 
-        <Student age="16"/>
-        <Student class="26SPIT3"/>
+        <Student name =" Đàm Tuyết Nhi " age="16" class="26SPIT3"/>
       </div>
     <br />
       <div className='card-title'>
-        <Student name =" Đàm Tuyết Nhi "/> 
-        <Student age="16"/>
-        <Student class="26SPIT3"/>      
-        </div>
+        <Student name =" Đàm Tuyết Nhi " age="16" class="26SPIT3"/>
+      </div>
     <br />
       <div className='card-title'>
-        <Student name =" Đàm Tuyết Nhi "/> 
-        <Student age="16"/>
-        <Student class="26SPIT3"/> 
-        </div>
+        <Student name =" Đàm Tuyết Nhi " age="16" class="26SPIT3"/>
+      </div>
     </>
   )
 }

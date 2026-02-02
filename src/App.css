@@ -44,6 +44,8 @@
   border: 1px solid rgb(255, 175, 55);
   border-radius: 5px;
   padding: 20px;
-  background-color: rgb(255, 239, 168);
+}
+.function{
+  background-color: antiquewhite;
 }
 
