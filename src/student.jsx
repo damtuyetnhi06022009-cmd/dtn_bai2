@@ -1,7 +1,7 @@
 function Student(props){
     return(
         <div style={{  
-            width:1280,
+            width:1100,
             textAlign:"left"
         }}>
             <h2>Tên:{props.name}</h2>
