@@ -41,10 +41,10 @@
   color: #888;
 }
 .card-title{
-  border: 1px solid rgb(255, 175, 55);
+  border: 2px solid rgb(255, 175, 55);
   border-radius: 10px;
-  padding: 20px;
-  background-color: aliceblue;
+  padding: 10px;
+  background-color: rgb(255, 255, 255);
 }
 body{
   background-color: antiquewhite;
